@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @aHumptyDumpty ... or Bryan! 
 - 👀 I’m interested in Blockchain and Web Development
 - 🌱 I’m currently learning React!
-- 💞️ I’m looking to collaborate on projects related to Web Development.
+- 🐢 I’m looking to collaborate on projects related to Web Development.
 - 📫 How to reach me -> arriagabryan@gmail.com
